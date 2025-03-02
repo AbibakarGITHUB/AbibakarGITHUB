@@ -29,7 +29,7 @@ I am a passionate software developer with a keen eye for clean, efficient, and s
 
 ## 📫 How to Reach Me:
 - **Email**: [abibakarhussein@gmail.com](abibakarhussein@gmail.com)
-- **LinkedIn**: [linkedin.com/in/abibakar-hussein](https://linkedin.com/in/abibakar-hussein)  
+- **LinkedIn**: [linkedin.com/in/abibakar-hussein]([https://linkedin.com/in/abibakar-hussein](https://www.linkedin.com/in/abibakar-hussein-468174209/))  
 - **GitHub**: [github.com/AbibakarGITHUB](https://github.com/AbibakarGITHUB)  
 
 ---
